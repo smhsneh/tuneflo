@@ -1,6 +1,6 @@
 # 🎵 tuneflo – retro minimalist music mood visualizer
 
-tuneFlo is a retro-inspired, minimalistic web music visualizer that plays songs, displays live waveforms, and changes aesthetics based on mood. It blends vintage visuals with modern web audio APIs using a clean cream-toned design inspired by vinyl culture.
+tuneflo is a retro-inspired, minimalistic web music visualizer that plays songs, displays live waveforms, and changes aesthetics based on mood , it blends vintage visuals with modern web audio APIs using a clean cream-toned design inspired by vinyl culture.
 
 ## 🎨 features
 
