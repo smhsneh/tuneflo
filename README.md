@@ -5,7 +5,7 @@ tuneflo is a retro-inspired, minimalistic web music visualizer that plays songs,
 ## 🎨 features
 
 - 🎧 **music playback**
-  - play / pause / next / previos
+  - play / pause / next / previous
 
 - 🌈 **mood-based backgrounds**
   - chill / energetic / retro moods
